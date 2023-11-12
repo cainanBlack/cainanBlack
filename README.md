@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Cainan Black!
-- 📖 Recent graduate from Belhaven University!
-- 🌱 I’m currently learning back-end development with c++!
-- 💻 My favorite languages are Java and Python!
+- 📖 I have a bachelor's in Computer Science from Belhaven University!
+- 🌱 I’m currently an Associate Software Engineer, developing in C++!
+- 💻 My favorite languages are Java and C++!
 - 📫 You can reach me at cainanblack@gmail.com
